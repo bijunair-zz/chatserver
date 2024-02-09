@@ -1,10 +1,15 @@
-# Getting Started with Create React App
+# About
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React front end chat using Azure Machine Learning managed endpoint: 
 
-## Available Scripts
+## Get Start
 
-In the project directory, you can run:
+Replace ENV with the primary/secondary key or AMLToken for the endpoint
+env.example provided
+
+### `npm run server`
+
+Run nodejs API end point server. 
 
 ### `npm start`
 
